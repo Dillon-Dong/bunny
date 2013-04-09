@@ -1,0 +1,47 @@
+body{
+
+	font-family:'Helvetica';
+	background: none;
+}
+
+a, h1, h2 {
+	color: #000066;
+}
+
+h1{
+	font-family: 'Georgia';
+	border-bottom: 2px solid #eee;
+}
+
+h2{
+	font-family: 'Georgia';
+	font-size: 1.2em;
+	color: #000066;
+}
+
+h3{
+	font-family: 'Georgia';
+	font-size: 1.2em;
+	color: #000066;
+}
+
+h4{
+	font-family: 'Georgia';
+	font-size: 0.9em;
+	color: #000000;
+}
+
+/* bunny_page - this is a class: it singles out one part of your html page 
+and gives it a certain format*/
+.bunny_page{
+	margin: 2em auto;
+	width: 35em;
+	border: 5px solid #ccc;
+	padding: 0.8em;
+	background: white;
+}
+
+#logo{
+	font-family: 'Geneva';
+	font-size: 4em;
+}
